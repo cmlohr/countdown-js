@@ -1,1 +1,1 @@
-count-down-timer
+Simple javascript count down timer.
